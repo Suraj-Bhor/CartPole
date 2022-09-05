@@ -36,3 +36,9 @@ To run CartPole locally perform the following steps (requires Python 3.7+):
 To visualize graphs the model saves the tensorboard checkpoints to `/tmp/tflearn_logs/`.
 Once the model is trained you can visualize the results buy issuing the following command.
 * ` tensorboard --logdir='/tmp/tflearn_logs' `
+
+### Acknowledgments
+1. [Sentdex](https://pythonprogramming.net/openai-cartpole-neural-network-example-machine-learning-tutorial/)
+2. [Gym Library](https://www.gymlibrary.dev/)
+3. [Tensorboard](https://tensorboard.dev/)
+4. [Spinning up OpenAI](https://spinningup.openai.com/en/latest/)
